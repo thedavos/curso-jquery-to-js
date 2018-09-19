@@ -1,7 +1,7 @@
 # curso-jquery-to-js
 Curso de jQuery a Javascript por Platzi
 
-Live Demo: 
+Live Demo: https://thedavos.github.io/curso-jquery-to-js/
 
 Temas de Javascript
 - Variables
